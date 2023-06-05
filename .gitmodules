@@ -40,3 +40,21 @@
 [submodule "lib/stm32wb_copro"]
 	path = lib/stm32wb_copro
 	url = https://github.com/flipperdevices/stm32wb_copro.git
+[submodule "applications/external/caesar_cipher"]
+	path = applications/external/caesar_cipher
+	url = https://github.com/DakotaMcCutch/caesar-cipher.git
+[submodule "applications/external/barcode_app"]
+	path = applications/external/barcode_app
+	url = https://github.com/Kingal1337/flipper-barcode-generator.git
+[submodule "applications/external/counter"]
+	path = applications/external/counter
+	url = https://github.com/Krulknul/dolphin-counter.git
+[submodule "applications/external/flipper_passgen"]
+	path = applications/external/flipper_passgen
+	url = https://github.com/anakod/flipper_passgen.git
+[submodule "applications/external/Coin_Flipper"]
+	path = applications/external/Coin_Flipper
+	url = https://github.com/zach-hutz/flipper-zero-coin-flip.git
+[submodule "applications/external/Sentry_Safe"]
+	path = applications/external/Sentry_Safe
+	url = https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin.git
