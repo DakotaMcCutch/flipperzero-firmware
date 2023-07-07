@@ -43,9 +43,6 @@
 [submodule "applications/external/caesar_cipher"]
 	path = applications/external/caesar_cipher
 	url = https://github.com/DakotaMcCutch/caesar-cipher.git
-[submodule "applications/external/barcode_app"]
-	path = applications/external/barcode_app
-	url = https://github.com/Kingal1337/flipper-barcode-generator.git
 [submodule "applications/external/counter"]
 	path = applications/external/counter
 	url = https://github.com/Krulknul/dolphin-counter.git
